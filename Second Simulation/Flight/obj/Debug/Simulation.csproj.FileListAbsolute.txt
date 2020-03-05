@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Desktop\Second Simulation\Flight\bin\Debug\Flight.exe.config
+C:\Users\User\Desktop\Desktop\Second Simulation\Flight\bin\Debug\Flight.exe
+C:\Users\User\Desktop\Desktop\Second Simulation\Flight\bin\Debug\Flight.pdb
+C:\Users\User\Desktop\Desktop\Second Simulation\Flight\obj\Debug\Simulation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Desktop\Second Simulation\Flight\obj\Debug\Simulation.Form1.resources
+C:\Users\User\Desktop\Desktop\Second Simulation\Flight\obj\Debug\Flight.Properties.Resources.resources
+C:\Users\User\Desktop\Desktop\Second Simulation\Flight\obj\Debug\Simulation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Desktop\Second Simulation\Flight\obj\Debug\Flight.exe
+C:\Users\User\Desktop\Desktop\Second Simulation\Flight\obj\Debug\Flight.pdb
