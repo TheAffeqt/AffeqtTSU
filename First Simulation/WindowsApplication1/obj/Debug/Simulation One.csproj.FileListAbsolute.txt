@@ -5,3 +5,11 @@ C:\Users\User\Desktop\Desktop\Simulation One\WindowsApplication1\obj\Debug\Windo
 C:\Users\User\Desktop\Desktop\Simulation One\WindowsApplication1\obj\Debug\Simulation One.csproj.GenerateResource.cache
 C:\Users\User\Desktop\Desktop\Simulation One\WindowsApplication1\obj\Debug\WindowsApplication1.exe
 C:\Users\User\Desktop\Desktop\Simulation One\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\User\Documents\GitHub\AffeqtTSU\First Simulation\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\User\Documents\GitHub\AffeqtTSU\First Simulation\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\User\Documents\GitHub\AffeqtTSU\First Simulation\WindowsApplication1\obj\Debug\Simulation One.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\AffeqtTSU\First Simulation\WindowsApplication1\obj\Debug\Simulation.Form1.resources
+C:\Users\User\Documents\GitHub\AffeqtTSU\First Simulation\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\AffeqtTSU\First Simulation\WindowsApplication1\obj\Debug\Simulation One.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\AffeqtTSU\First Simulation\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\User\Documents\GitHub\AffeqtTSU\First Simulation\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
