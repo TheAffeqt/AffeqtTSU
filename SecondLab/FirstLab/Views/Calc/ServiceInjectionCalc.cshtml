@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "ServiceInjectionCalc";
+    @inject FirstLab.Services.CalcService calcService
+}
+
+<h2>ServiceInjectionCalc</h2>
+<div>First value: @calcService.value</div>
+<div>Second value: @calcService.value2</div>
+<div>Add: @calcService.value + @calcService.value2 = @calcService.Add()</div>
+<div>Sub: @calcService.value - @calcService.value2 = @calcService.Sub()</div>
+<div>Multi: @calcService.value * @calcService.value2 = @calcService.Mult()</div>
+<div>
+    Div: @calcService.value / @calcService.value2 = @if (calcService.Div() == -1)
+    {
+        @: error
+    }
+    else
+    {
+        @calcService.Div()
+    }
+</div>

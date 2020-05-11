@@ -1,0 +1,24 @@
+﻿
+@model FirstLab.Models.CalcModel
+
+@{
+    ViewData["Title"] = "UsingModelCalc";
+}
+
+<h2>UsingModelCalc</h2>
+<div>First value: @Model.first</div>
+<div>Second value: @Model.second</div>
+<div>Add: @Model.first + @Model.second = @Model.resAdd</div>
+<div>Sub: @Model.first - @Model.second = @Model.resSub</div>
+<div>Multi: @Model.first * @Model.second = @Model.resMult</div>
+<div>
+    Div: @Model.first / @Model.second = @if (Model.resDiv == -1)
+    {
+        @: error
+    }
+    else
+    {
+        @Model.resDiv
+    }
+
+</div>

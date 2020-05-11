@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication222.cpp
+c:\users\user\desktop\consoleapplication222\consoleapplication222\consoleapplication222.cpp(100): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication222.vcxproj -> C:\Users\User\Desktop\ConsoleApplication222\Debug\ConsoleApplication222.exe
+  ConsoleApplication222.vcxproj -> C:\Users\User\Desktop\ConsoleApplication222\Debug\ConsoleApplication222.pdb (Full PDB)

@@ -1,0 +1,24 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(17,12): error C2065: LC_ALL: необъявленный идентификатор
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(17,2): error C3861: setlocale: идентификатор не найден
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(20,2): error C2065: cout: необъявленный идентификатор
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(20,47): error C2065: cin: необъявленный идентификатор
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(21,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(33,16): error C3861: cos: идентификатор не найден
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(47,2): error C2065: cout: необъявленный идентификатор
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(50,23): error C2065: cout: необъявленный идентификатор
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(51,3): error C2065: cout: необъявленный идентификатор
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(52,47): error C2065: cout: необъявленный идентификатор
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(54,2): error C2065: cout: необъявленный идентификатор
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(57,3): error C2065: cout: необъявленный идентификатор
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(58,47): error C2065: cout: необъявленный идентификатор
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(61,38): warning C4305: +=: усечение из "double" в "float"
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(75,11): error C3861: abs: идентификатор не найден
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(76,11): error C3861: abs: идентификатор не найден
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(80,15): error C3861: abs: идентификатор не найден
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(80,39): error C3861: abs: идентификатор не найден
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(81,15): error C3861: abs: идентификатор не найден
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(81,39): error C3861: abs: идентификатор не найден
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(84,2): error C2065: cout: необъявленный идентификатор
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(85,2): error C2065: cout: необъявленный идентификатор
+C:\Users\User\Desktop\relax\ConsoleApplication2\ConsoleApplication2.cpp(87,2): error C3861: system: идентификатор не найден

@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Lab13.cpp
+D:\Visual Studio 2015\Projects\Lab13\Lab13\Lab13.cpp(59,24): warning C4305: инициализация: усечение из "double" в "float"
+  Lab13.vcxproj -> D:\Visual Studio 2015\Projects\Lab13\Debug\Lab13.exe

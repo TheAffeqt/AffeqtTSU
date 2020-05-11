@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "ViewDataCalc";
+    var data = ViewData["data"] as FirstLab.Models.CalcModel;
+
+}
+
+<h2>ViewDataCalc</h2>
+<div>First value: @data.first</div>
+<div>Second value: @data.second</div>
+<div>Add: @data.first + @data.second = @data.resAdd</div>
+<div>Sub: @data.first - @data.second = @data.resSub</div>
+<div>Mult: @data.first * @data.second = @data.resMult</div>
+<div>
+    Div: @data.first / @data.second = @if (data.resDiv == -1)
+    {
+        @: error
+    }
+    else
+    {
+        @data.resDiv
+    }
+</div>
