@@ -17,3 +17,12 @@ C:\Загрузки\Лабы\Лабы\Lab13\Lab13\Lab13\obj\Debug\Lab13.Properti
 C:\Загрузки\Лабы\Лабы\Lab13\Lab13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
 C:\Загрузки\Лабы\Лабы\Lab13\Lab13\Lab13\obj\Debug\Lab13.exe
 C:\Загрузки\Лабы\Лабы\Lab13\Lab13\Lab13\obj\Debug\Lab13.pdb
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab13\Lab13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab13\Lab13\Lab13\bin\Debug\Lab13.exe
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab13\Lab13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab13\Lab13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab13\Lab13\Lab13\obj\Debug\Lab13.Form1.resources
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab13\Lab13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab13\Lab13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab13\Lab13\Lab13\obj\Debug\Lab13.exe
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab13\Lab13\Lab13\obj\Debug\Lab13.pdb
