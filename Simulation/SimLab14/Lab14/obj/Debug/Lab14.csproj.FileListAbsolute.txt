@@ -1,0 +1,28 @@
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.Form1.resources
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\bin\Debug\Lab14.exe.config
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\bin\Debug\Lab14.exe
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\bin\Debug\Lab14.pdb
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.exe
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.pdb
+C:\Загрузки\Лабы\Лабы\Lab14\Lab14\bin\Debug\Lab14.exe.config
+C:\Загрузки\Лабы\Лабы\Lab14\Lab14\bin\Debug\Lab14.exe
+C:\Загрузки\Лабы\Лабы\Lab14\Lab14\bin\Debug\Lab14.pdb
+C:\Загрузки\Лабы\Лабы\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+C:\Загрузки\Лабы\Лабы\Lab14\Lab14\obj\Debug\Lab14.Form1.resources
+C:\Загрузки\Лабы\Лабы\Lab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+C:\Загрузки\Лабы\Лабы\Lab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+C:\Загрузки\Лабы\Лабы\Lab14\Lab14\obj\Debug\Lab14.exe
+C:\Загрузки\Лабы\Лабы\Lab14\Lab14\obj\Debug\Lab14.pdb
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab14\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab14\Lab14\bin\Debug\Lab14.exe
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab14\Lab14\bin\Debug\Lab14.pdb
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab14\Lab14\obj\Debug\Lab14.Form1.resources
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab14\Lab14\obj\Debug\Lab14.exe
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab14\Lab14\obj\Debug\Lab14.pdb
