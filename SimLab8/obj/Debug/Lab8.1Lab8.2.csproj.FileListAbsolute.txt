@@ -1,0 +1,24 @@
+C:\MyFiles\Study\Simulation Models\Lab8.1Lab8.2\bin\Debug\Lab8.1Lab8.2.exe.config
+C:\MyFiles\Study\Simulation Models\Lab8.1Lab8.2\bin\Debug\Lab8.1Lab8.2.exe
+C:\MyFiles\Study\Simulation Models\Lab8.1Lab8.2\bin\Debug\Lab8.1Lab8.2.pdb
+C:\MyFiles\Study\Simulation Models\Lab8.1Lab8.2\obj\Debug\Lab8.1Lab8.2.csprojAssemblyReference.cache
+C:\MyFiles\Study\Simulation Models\Lab8.1Lab8.2\obj\Debug\Lab8._1Lab8._2.Form1.resources
+C:\MyFiles\Study\Simulation Models\Lab8.1Lab8.2\obj\Debug\Lab8._1Lab8._2.Form2.resources
+C:\MyFiles\Study\Simulation Models\Lab8.1Lab8.2\obj\Debug\Lab8._1Lab8._2.Properties.Resources.resources
+C:\MyFiles\Study\Simulation Models\Lab8.1Lab8.2\obj\Debug\Lab8.1Lab8.2.csproj.GenerateResource.cache
+C:\MyFiles\Study\Simulation Models\Lab8.1Lab8.2\obj\Debug\Lab8.1Lab8.2.csproj.CoreCompileInputs.cache
+C:\MyFiles\Study\Simulation Models\Lab8.1Lab8.2\obj\Debug\Lab8.1Lab8.2.exe
+C:\MyFiles\Study\Simulation Models\Lab8.1Lab8.2\obj\Debug\Lab8.1Lab8.2.pdb
+C:\MyFiles\Study\Simulation Models\Lab8.1Lab8.2\obj\Debug\Lab8._1Lab8._2.Form3.resources
+C:\Users\Sergey\Desktop\Lab8.1Lab8.2\bin\Debug\Lab8.1Lab8.2.exe.config
+C:\Users\Sergey\Desktop\Lab8.1Lab8.2\bin\Debug\Lab8.1Lab8.2.exe
+C:\Users\Sergey\Desktop\Lab8.1Lab8.2\bin\Debug\Lab8.1Lab8.2.pdb
+C:\Users\Sergey\Desktop\Lab8.1Lab8.2\obj\Debug\Lab8.1Lab8.2.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\Lab8.1Lab8.2\obj\Debug\Lab8._1Lab8._2.Form1.resources
+C:\Users\Sergey\Desktop\Lab8.1Lab8.2\obj\Debug\Lab8._1Lab8._2.Form2.resources
+C:\Users\Sergey\Desktop\Lab8.1Lab8.2\obj\Debug\Lab8._1Lab8._2.Form3.resources
+C:\Users\Sergey\Desktop\Lab8.1Lab8.2\obj\Debug\Lab8._1Lab8._2.Properties.Resources.resources
+C:\Users\Sergey\Desktop\Lab8.1Lab8.2\obj\Debug\Lab8.1Lab8.2.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\Lab8.1Lab8.2\obj\Debug\Lab8.1Lab8.2.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Lab8.1Lab8.2\obj\Debug\Lab8.1Lab8.2.exe
+C:\Users\Sergey\Desktop\Lab8.1Lab8.2\obj\Debug\Lab8.1Lab8.2.pdb
