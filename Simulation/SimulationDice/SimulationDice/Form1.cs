@@ -43,7 +43,7 @@ namespace SimulationDice
             if (count < 8)
             {
                 count++;
-                labelCount.Text = "Count of rolls:" + count;
+                labelCount.Text = "Count of rolls:" +count;
                 ResultBox.Text = "";
                 sum1 += dice1;
                 LabelSum1.Text = "Sum:" +sum1;
