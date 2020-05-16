@@ -1,0 +1,28 @@
+D:\Никита\Универ\Имитационное моделирование\Lab10\Lab9\bin\Debug\Lab9.exe.config
+D:\Никита\Универ\Имитационное моделирование\Lab10\Lab9\bin\Debug\Lab9.exe
+D:\Никита\Универ\Имитационное моделирование\Lab10\Lab9\bin\Debug\Lab9.pdb
+D:\Никита\Универ\Имитационное моделирование\Lab10\Lab9\obj\Debug\Lab11.csprojAssemblyReference.cache
+D:\Никита\Универ\Имитационное моделирование\Lab10\Lab9\obj\Debug\Lab9.Form1.resources
+D:\Никита\Универ\Имитационное моделирование\Lab10\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+D:\Никита\Универ\Имитационное моделирование\Lab10\Lab9\obj\Debug\Lab11.csproj.GenerateResource.cache
+D:\Никита\Универ\Имитационное моделирование\Lab10\Lab9\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+D:\Никита\Универ\Имитационное моделирование\Lab10\Lab9\obj\Debug\Lab9.exe
+D:\Никита\Универ\Имитационное моделирование\Lab10\Lab9\obj\Debug\Lab9.pdb
+C:\Загрузки\Лабы\Лабы\Lab11\Lab9\bin\Debug\Lab9.exe.config
+C:\Загрузки\Лабы\Лабы\Lab11\Lab9\bin\Debug\Lab9.exe
+C:\Загрузки\Лабы\Лабы\Lab11\Lab9\bin\Debug\Lab9.pdb
+C:\Загрузки\Лабы\Лабы\Lab11\Lab9\obj\Debug\Lab11.csprojAssemblyReference.cache
+C:\Загрузки\Лабы\Лабы\Lab11\Lab9\obj\Debug\Lab9.Form1.resources
+C:\Загрузки\Лабы\Лабы\Lab11\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\Загрузки\Лабы\Лабы\Lab11\Lab9\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Загрузки\Лабы\Лабы\Lab11\Lab9\obj\Debug\Lab9.exe
+C:\Загрузки\Лабы\Лабы\Lab11\Lab9\obj\Debug\Lab9.pdb
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab11\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab11\Lab9\bin\Debug\Lab9.exe
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab11\Lab9\bin\Debug\Lab9.pdb
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab11\Lab9\obj\Debug\Lab11.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab11\Lab9\obj\Debug\Lab9.Form1.resources
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab11\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab11\Lab9\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab11\Lab9\obj\Debug\Lab9.exe
+C:\Users\User\Documents\GitHub\AffeqtTSU\Simulation\SimLab11\Lab9\obj\Debug\Lab9.pdb
