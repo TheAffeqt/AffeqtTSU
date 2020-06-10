@@ -62,7 +62,7 @@ namespace Lab14
             }
             chart1.ChartAreas[0].Axes[0].Maximum = stat.b;
             stat.MeanAvaible();
-            label4.Text = "Average: " + stat.E + " (error = " + stat.EErr + " %)";
+            label4.Text = "Mean: " + stat.E + " (error = " + stat.EErr + " %)";
             label5.Text = "Variance: " + stat.D + " (error = " + stat.DErr + " %)";
             label7.Text = stat.ChiCheck();
             distr(numericUpDown1.Value, numericUpDown2.Value);
@@ -194,7 +194,7 @@ namespace Lab14
             
             public string ChiCheck()
             {
-                if ((double)Chi < 11.07) return "Chi-squared: " + Math.Round((double)Chi, 3) + " < 11.07 correctly";
+                if ((double)Chi < 11.07) return "Chi(sqr): " + Math.Round((double)Chi, 3) + " < 11.07 correctly";
                 return "Chi(sqr): " + Math.Round((double)Chi, 3) +  " > 11.07 incorrectly";
             }
             

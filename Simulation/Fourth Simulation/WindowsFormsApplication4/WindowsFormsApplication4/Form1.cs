@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MathNet.Numerics.Distributions;
+using MathNet.Numerics.Random;
 
 namespace WindowsFormsApplication4
 {
@@ -17,12 +19,7 @@ namespace WindowsFormsApplication4
         double dollars, rubles;
         Random rnd = new Random();
         int i;
-        public Form1()
-        {
-            InitializeComponent();
-        }
-
-       
+        
         private void CalculateButton_Click(object sender, EventArgs e)
         {
             chart1.Series[0].Points.Clear();
@@ -43,7 +40,7 @@ namespace WindowsFormsApplication4
                 chart1.Series[0].Points.Clear();
                 i = 1;
             }
-            price = price * (1 + k * (rnd.NextDouble() - 0.5)); 
+            price *= (1 + k * (rnd.NextDouble() - 0.5)); 
             chart1.Series[0].Points.AddXY(i, price); 
             i++;
         }
@@ -54,8 +51,8 @@ namespace WindowsFormsApplication4
             
             if (rubles != 0 && (double)InputBuy.Value <= rubles) 
             {
-                dollars = dollars + (double)InputBuy.Value / price;
-                rubles = rubles - (double)InputBuy.Value;
+                dollars += (double)InputBuy.Value / price;
+                rubles -= (double)InputBuy.Value;
                 LabelDollars.Text = "Dollars:" + dollars;
                 LabelRubles.Text = "Rubles:" + rubles;
             }
@@ -67,8 +64,8 @@ namespace WindowsFormsApplication4
             
             if (dollars != 0 && (double)InputSell.Value <= dollars)
             {
-                rubles = rubles + (double)InputSell.Value * price;
-                dollars = dollars - (double)InputSell.Value;
+                rubles += (double)InputSell.Value * price;
+                dollars -= (double)InputSell.Value;
                 LabelDollars.Text = "Dollars:" + dollars;
                 LabelRubles.Text = "Rubles:" + rubles;
             }
